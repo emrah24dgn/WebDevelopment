@@ -1,0 +1,31 @@
+body{
+margin: 2% 10%;
+}
+.foto{
+  width: 150px;
+  height: 150px;
+  padding: 2%
+
+}
+.yazı{
+  width: auto;
+  height: auto;
+  padding-left: 2%;
+}
+
+
+.hakkımda{
+
+  background-color: #CFFFFE;
+  padding: 2% 2%;
+}
+
+.Hobilerim{
+  background-color: pink;
+  padding: 2% 2%;
+}
+.Bildiğim-Diller{
+  background-color: #ffcb8e;
+padding: 2% 2%;
+
+}

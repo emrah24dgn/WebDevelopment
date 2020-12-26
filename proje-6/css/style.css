@@ -1,0 +1,94 @@
+.navbar{
+  width: 15%;
+  height: 100%;
+  float: left;
+  background-color: #bd5d38;
+  position: fixed;
+  top: 0;
+}
+.navbar a{
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: bolder;
+}
+.profil-resmi{
+  max-height: 40%;
+  max-width: 70%;
+  border: 5px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.sayfa-boyutu{
+  width: 60%;
+  height: 81rem;
+  margin-left: 15%;
+}
+#birinci-sayfa span{
+  font-size: 7rem;
+  font-weight: bold;
+  line-height: 1;
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+#birinci-sayfa p{
+  color: #6c757d;
+  font-size: 1.1rem;
+}
+.social-media i{
+  border: 1px solid ;
+  border-radius: 40%;
+  color: white;
+  background-color: #495057;
+  width: 3.5rem;
+  height:3.5rem;
+  display:inline-flex ;
+  justify-content: center;
+  align-items: center;
+}
+.social-media i:hover{
+  background-color: #bd5d38;
+}
+p{
+  padding: 3% 0 5%;
+  color: #6c757d;
+  font-weight: 400;
+  font-size: 1rem;
+}
+h2{
+  font-size: 3.5rem;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-weight: 700;
+  color: #343a40;
+}
+h3{
+  font-size: 2rem;
+  color: #343a40;
+  font-weight: 500;
+}
+.renk-kodu{
+  color: #6c757d;
+  font-size: 1.3rem;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  text-align: left;
+}
+.sol{
+  padding-right: 35% !important;
+}
+footer ul li i{
+  color:#fdcb6e;
+}
+hr{
+  width: 50%!important;
+  color: black;
+}
+@media (max-width: 957px) {
+  .navbar-toggler{
+    position: relative; top:0px; right:0px;
+    background-color: #bd5d38;
+
+    
+  }
+  .navbar{
+    position: relative;top:0px; left: 0;
+    width:100%;
+  }
+
+  }

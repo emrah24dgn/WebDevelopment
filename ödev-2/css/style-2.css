@@ -1,0 +1,82 @@
+.ust-kısım{
+  background-color: #ff5722;
+}
+.phone-x{
+margin-top:20px;
+font-size: 4rem;
+font-weight: bold;
+font-family: Ubuntu;
+}
+.üye{
+  float: right;
+}
+.breadcrumb{
+border-radius: 15%;
+justify-content: flex-end;
+}
+.navbar{
+border-radius: 20px;
+}
+.ust-alt-45px-bosluk{
+  padding: 45px 0;
+}
+.ust-kisim-bosluk{
+  padding: 2% 10%;
+}
+.Kategoriler ul li a{
+  color: white;
+}
+.row .col{
+  box-sizing: border-box;
+}
+.col ul li a{
+  color: #dddddd;
+  text-decoration: none;
+  font-size: 2rem;
+}
+ul{
+  list-style-type: none;
+font-family: 'Ubuntu';
+}
+.bölüm{
+  padding: 2%;
+}
+.fas {
+    color: #ffd166;
+border-style: solid;
+padding: 2%;
+}
+.x{
+  border-style: solid;
+  padding: 2%;
+  margin: 0% 2% 2% 2%;
+
+}
+h1{
+  justify-content: center;
+  font-size: 2.3rem;
+text-decoration: underline;
+font-family: 'Ubuntu';
+}
+.row h2{
+  font-size: 1.5rem;
+}
+.bölüm h2{
+  text-decoration: underline;
+  font-size: 1.6rem;
+padding-left: 35px;
+}
+@media (min-width:768px) {
+  .resim{
+    width: 50%;
+    border-radius: 50%;
+
+
+  }
+}
+@media (max-width:767px) {
+  .resim{
+    width: 50%;
+
+  }
+}

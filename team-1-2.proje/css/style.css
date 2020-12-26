@@ -1,0 +1,207 @@
+#kutu1{
+	background-color:#160C6E;
+	height:690px;
+	width: 1349px;
+	position:absolute;
+	z-index: -15;
+	top: 0px; bottom: 0px;
+}
+
+#kutu2{
+	background-color: #3F21D0;
+	height: 43rem;
+	width: 43rem;
+	position: absolute;
+	left: 17rem; top:-1rem;
+z-index: -10;
+
+}
+
+#kutu3{
+background: linear-gradient(321.25deg, #DF387C -33.39%, #FF602C 103.69%);
+	height: 27rem;
+	width: 27rem;
+	z-index: -5;
+	position: absolute;
+	left: 25rem; top:7rem;
+
+
+}
+
+.kutu4{
+	background-image: url('C:/Users/ertgl/Desktop/WebDevelopment/team-1-2.proje/foto/fotograf.png');
+z-index: 25;
+}
+
+
+.buyukdaire {
+  height: 730px;
+  width: 730px;
+  border-radius: 50%;
+  margin-left: 180px;
+  position: fixed;
+  top: -30px;
+}
+.kucukdaire {
+
+  height: 450px;
+  width: 450px;
+  border-radius: 50%;
+
+  top: 120px;
+  left: 450px;
+}
+.baloncuk1 {
+  width: 25px;
+  height: 25px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 340px;
+  top: 95px;
+}
+.baloncuk2 {
+  width: 10px;
+  height: 10px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 780px;
+  top: 95px;
+}
+.baloncuk3 {
+  width: 15px;
+  height: 15px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left:1010px;
+  top: 110px;
+}
+.baloncuk4 {
+  width: 15px;
+  height: 15px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 360px;
+  top: 280px;
+}
+.baloncuk5 {
+  width: 10px;
+  height: 10px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 710px;
+  top: 490px;
+}
+.baloncuk6 {
+  width: 35px;
+  height: 35px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 360px;
+  top: 560px;
+}
+.baloncuk7 {
+  width: 15px;
+  height: 15px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 800px;
+  top: 560px;
+}
+.baloncuk8 {
+  width: 15px;
+  height: 15px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: absolute;
+  left: 1020px;
+  top: 580px;
+}
+.gearortaresim {
+position: absolute;left:-40px; top:-5px;
+}
+.shop {
+  width: 60px;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: -20px;
+}
+.aramaikon {
+  padding-right: 30px;
+  color: white;
+}
+.linkler{
+  list-style-type: none;
+  margin-top: 170px;
+  line-height: 2rem;
+  width: 150px;
+}
+.gearbaslik{
+  font-weight: 700px;
+  color: white;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.sollinkrenk{
+  color: #adb5bd;
+  font-size: 14px;
+  font: weight: 700px;
+  font-family: 'Montserrat', sans-serif;
+}
+.sollinkrenk:hover{
+  color: blue;
+}
+.gearvrsagtaraf{
+  position: absolute;
+  left: 680px;
+  top: 240px;
+}
+.gearfont{
+  font-size:74px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:900px;
+  font-weight: bold;
+}
+.sagtarafyazi{
+  float: right;
+  margin-top: -210px;
+  margin-right: 300px;
+  font-size: 12px;
+  overflow: hidden;
+  background-color: none;
+}
+.card{
+  background: none;
+  border: 0px;
+}
+.butonrenk{
+
+  border-radius: 40px;
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  height: 40px;
+  padding-top: 11px;
+}
+.gr{
+padding-left: 220px;
+	background-image: url('C:/Users/ertgl/Desktop/WebDevelopment/team-1-2.proje/foto/fotograf.png');
+z-index: 22;
+}
+
+/* <div class="">
+  <div id="kutu1" class=""></div>
+
+  <div id="kutu2" class=""></div>
+
+  <div id="kutu3" class=""></div>
+
+  <div id="kutu4" class=""></div>
+
+</div>

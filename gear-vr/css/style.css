@@ -1,0 +1,47 @@
+body{
+  background-color: #160C6E ;
+  height: 650px;
+
+}
+.kutu {
+
+  background-color: #3F21D0;
+  width: 675px;
+  height: 675px;
+
+  -moz-border-radius: 600px;
+  -webkit-border-radius: 600px;
+  position: absolute;
+  left: 25%;
+
+}
+.kutu-2 {
+  border: 1px ;
+  background:linear-gradient(321.25deg, #DF387C -33.39%, #FF602C 103.69%);
+  width: 400px;
+  height: 400px;
+  border-radius: 350px;
+  -moz-border-radius: 350px;
+  -webkit-border-radius: 350px;
+  position: absolute;
+  left: 450px;
+  top: 150px;
+
+}
+ ul{
+   list-style-type: none;
+   color: white;
+ }
+ .sag-yazı{
+   color: white;
+
+ }
+ .vr-shop{
+   height: 60px;
+   width: 85px;
+
+ }
+ .c{
+   margin-top: 10%;
+
+ }

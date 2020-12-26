@@ -1,0 +1,134 @@
+body{
+  background: url("C:/Users/ertgl/Desktop/WebDevelopment/team-yeni/images/b12.jpg") no-repeat;
+  background-size:cover;
+  min-height: 650px;
+  background-attachment: fixed;
+background-position: center;
+}
+.baslangıc h1{
+  font-family: 'Crimson Text', serif;
+}
+a{
+  color: white;}
+a:hover{
+  color: white;}
+.r-l-t-b{
+  margin: 4% 20% 0 20%;
+  width: 60%;
+}
+.arkaplan{
+  background-color: #6610f2;
+  opacity: 0.8;
+  filter: alpha(opacity(80));
+margin-bottom: 5%;
+box-sizing: border-box;
+}
+
+
+.img{
+  max-height: 100%;
+  max-width: 100%;
+
+}
+.resimler{
+  width: 350px;
+  height:220px;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 5px black;
+
+}
+.kutu-araları-sol{
+  margin-right: 10%;
+}
+.kutu-araları-sag{
+  margin-left: 10%;
+}
+.kutu-margin{
+  margin-left: 2%;
+}
+.kutu-margin2{
+  margin-left: 8%;
+}
+.col-lg-6{
+  padding:0;
+ }
+.crony-margin{
+  padding: 2% 0;
+}
+.iconlar{
+  padding-bottom: 7%;
+}
+.p-yazi{
+  width: 500px;
+  margin: 0 auto;
+  font-size: 1rem;
+  padding-top: 5%;
+font-family: 'Roboto', sans-serif;
+
+}
+.p-yazi2{
+  font-size: 1rem;
+  padding: 5%;
+text-align: justify;
+    font-family: 'Roboto', sans-serif;
+
+}
+.en-boy{
+  width: 100%;
+  height: 100%;
+}
+.btn1{
+  background-color: #e827ad;
+}
+.p-yazi3{
+  font-size: 0.8rem;
+text-align: left;
+line-height: 1.5rem;
+}
+.btn{
+  background-color: #e827ad;
+
+}
+.clr{
+  text-align: left;
+  font-family: 'Crimson Text', serif;
+
+}
+.crny{
+display: flex;
+align-items: flex-start;
+padding-bottom: 5px;
+font-family: 'Crimson Text', serif;
+}
+@media (min-width:768px) {
+  .resimler{
+    width: 350px;
+    height:220px;
+box-sizing: border-box;
+.img{
+  max-height: 50%;
+  max-width: 50%;
+
+}
+
+  }
+}
+@media (max-width:767px) {
+  .resimler{
+    width: 250px;
+    height:200px;
+    padding: 5%;
+    position: relative;
+    margin: auto;
+  }
+
+
+  .p-yazi2{
+    font-size: 0.8rem;
+    padding: 5%;
+  text-align: justify;
+
+
+  }
+
+}

@@ -1,0 +1,256 @@
+h3 {
+  font-weight: bold;
+}
+.sol-cizgi{
+  height: 1%;
+  width: 160px;
+  border: 2px solid white;
+
+
+}
+.sag-cizgi{
+  height: 1%;
+  width: 160px;
+  border: 2px solid white;
+
+}
+.sol-cizgi2{
+  height: 1%;
+  width: 60px;
+  border: 2px solid black;
+
+
+}
+.sag-cizgi2{
+  height: 1%;
+  width: 60px;
+  border: 2px solid black;
+
+}
+.star2{
+  color: black;
+}
+.sol-cizgi3{
+  height: 1%;
+  width: 50px;
+  border: 2px solid white;
+
+
+}
+.sag-cizgi3{
+  height: 1%;
+  width: 50px;
+  border: 2px solid white;
+
+}
+.sol-cizgi4{
+  height: 1%;
+  width: 50px;
+  border: 2px solid black;
+
+
+}
+.sag-cizgi4{
+  height: 1%;
+  width: 50px;
+  border: 2px solid black;
+
+}
+.star4{
+  color: black;
+}
+
+
+
+.profil-resmi {
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+}
+
+.galeri {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.resim {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #FAC9A4;
+  border-radius: 8px;
+  background-color: #FAC9A4;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+
+.resim img {
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.resim2 {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #8E89FA;
+  border-radius: 8px;
+  background-color: #8E89FA;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+
+.resim2 img {
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.resim3 {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #212529;
+  border-radius: 8px;
+  background-color: #212529;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+
+.resim3 img {
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.resim4 {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #BF4582;
+  border-radius: 8px;
+  background-color: #BF4582;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+
+.resim4 img {
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.resim5 {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #9400FF;
+  border-radius: 8px;
+  background-color: #9400FF;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+
+.resim5 img {
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.resim6 {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #b9f542;
+  border-radius: 8px;
+  background-color: #b9f542;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+
+.resim6 img {
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.form-control {
+  width: 650px;
+}
+
+.form-group {
+  margin-left: 350px;
+}
+
+.message {
+  height: 90px;
+}
+
+.icon {
+  color: white;
+  border-radius: 100px;
+  border: 2px solid;
+  padding: 7px;
+}
+
+.btn {
+  color: white;
+  border: 2px solid;
+  padding: 7px;
+}
+
+.bg-ust {
+  background-color: #32e0c4;
+}
+
+.bg-About {
+  background-color: #32e0c4;
+}
+
+.reklam {
+  background-color: #393e46;
+}
+
+.son {
+  background-color: #222831;
+}

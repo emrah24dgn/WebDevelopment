@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  font-family: 'Markazi Text', serif;
+}
+h1{
+  border-left: 10px solid red;
+  padding-left: 5px;
+  background-color: #ffffff66;
+  font-family: 'Permanent Marker', cursive;
+text-align: center;
+}
+.linkler{
+
+width: 40%;
+height: 75px;
+float: right;
+display: flex;
+align-items: center;
+justify-content:space-around;
+}
+.sol-sag-padding{
+padding-left: 100px;
+padding-right: 100px;
+
+
+}
+
+.linkler a{
+  padding: 2%;
+border:3px solid #03c4a1;
+  font-size: 1.3rem;
+  color: #03c4a1;
+  border-radius: 10%;
+}
+.linkler a:hover{
+  color: red;
+}
+
+.container-fluid{
+
+  font-size: 40px;
+
+  color: #7579e7;
+background-color: #fff8cd;
+}
+.logo{
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px dashed;
+  margin: 5px;
+color: purple;
+font-family: 'Zilla Slab', serif;
+}
+.container{
+  background-color: green;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.profil-resmi {
+  width: 150px;
+  height: 150px;
+  border-radius:15px 15px 15px 15px;
+  border: 1px dashed;
+}
+.hakkimda {
+  border: solid;
+  border-radius: 20px;
+  padding: 2%;
+  background-color: #cffffe;
+}
+.hakkimda-yazi {
+  padding-left: 2rem;
+
+}
+.hobilerim {
+  border-radius: 20px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border: 1px dashed red;
+  padding: 2%;
+  background-color: #f9f7d9;
+}
+.hobilerim-yazi {
+  padding-right: 2rem;
+}
+.hobi-resmi {
+  width: 150px;
+  height: 150px;
+}
+.bildigim-diller {
+  border-radius: 20px;
+  padding: 2%;
+  background-color: #fce2ce;
+}
+.bildigim-diller-yazi {
+  padding-left: 2rem;
+}
+.bildigim-diller-resmi {
+  border-radius: 0 40px 40px 0 ;
+  border: 2px dashed;
+  width: 150px;
+  height: 150px;
+}
+/* alt taraf kodları*/
+.container-alt{
+  display: flex;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.footer-arkaplan{
+  background-color: #232F3E;
+}
+.menu{
+  width: 25%;
+}
+.baslik{
+  color: #ffffff;
+  font-weight: 700;
+}
+.menu ul li{
+  list-style-type: none;
+  color: #ffffff;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.menu ul li a{
+  color: #dddddd;
+  text-decoration: none;
+
+}
+.menu ul{
+  padding: 0;
+}
+.menu ul li a:hover{
+  text-decoration: underline;
+  color: red;
+}
+.ustegeridon{
+  background-color: #485769;
+ padding: 10px;
+ color:#dddddd;
+ text-align: center;
+ position: relative;
+ right: 125px;
+}
+.alt-link{
+  text-decoration: none;
+  color: #dddddd;
+}
+.alt-link:hover{
+  background-color: pink;
+  font-size: 2.5rem;
+}
+.sabit{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
